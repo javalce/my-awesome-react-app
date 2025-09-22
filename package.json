@@ -41,5 +41,6 @@
     "typescript": "~5.9.2",
     "vite": "7.1.6",
     "wouter": "3.7.1"
-  }
+  },
+  "packageManager": "pnpm@10.17.0"
 }
